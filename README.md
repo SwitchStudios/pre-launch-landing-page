@@ -1,6 +1,6 @@
-# Hoppi Space
-
 # pre-launch-landing-page
+
+https://circleci.com/gh/:owner/:repo.svg?style=shield&circle-token=:circle-token
 
 ## Mission
 Pre-launch website to share our mission with the public and gain initial traction through email subscriptions.
