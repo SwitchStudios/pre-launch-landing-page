@@ -1,6 +1,7 @@
 # pre-launch-landing-page
 
-https://circleci.com/gh/:owner/:repo.svg?style=shield&circle-token=:circle-token
+[![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg?style=plastic)](https://circleci.com/gh/hoppispace/pre-launch-landing-page)
+
 
 ## Mission
 Pre-launch website to share our mission with the public and gain initial traction through email subscriptions.
