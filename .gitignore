@@ -1,1 +1,11 @@
-node_modules/*
+.DS_Store
+npm-debug.log
+node_modules
+build
+settings.json
+**/lib
+
+.jshintrc
+*-compiled.js
+*-compiled.js.*
+npm-debug.log.*
